@@ -1,0 +1,22 @@
+# data and derived selections
+data/
+filtered/
+playlists/
+
+# wayback pipeline cache/intermediates
+wayback_cache/
+wayback_manifest.json
+wayback_candidates.json
+
+# lookup caches
+lastfm_genre_cache.json
+spotify_match_cache.json
+
+# secrets / auth
+.env
+.cache
+.spotify_token_cache
+
+# python
+__pycache__/
+*.pyc
