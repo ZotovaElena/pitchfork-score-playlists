@@ -20,3 +20,6 @@ spotify_match_cache.json
 # python
 __pycache__/
 *.pyc
+
+# editor
+.vscode/
